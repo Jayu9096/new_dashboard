@@ -1,0 +1,37 @@
+{
+    "auth_code": "HKkPI3",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWU4NDVmZDc1MmY4NTVjOWViOWQ3YzkiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc3NjgyOTk0OSwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzc2ODk1MjAwfQ.Wik_-125UVnSY-6SDDH_-3YlBc3EVlFW8aFNQtNwcd8",
+    "full": {
+        "email": "jayant.patrikar05@gmail.com",
+        "exchanges": [
+            "NFO",
+            "MCX",
+            "NSE",
+            "BCD",
+            "BSE",
+            "CDS",
+            "BFO"
+        ],
+        "products": [
+            "OCO",
+            "D",
+            "CO",
+            "I"
+        ],
+        "broker": "UPSTOX",
+        "user_id": "4RC6LK",
+        "user_name": "Jayant Govindrao Patrikar",
+        "order_types": [
+            "MARKET",
+            "LIMIT",
+            "SL",
+            "SL-M"
+        ],
+        "user_type": "individual",
+        "poa": false,
+        "ddpi": false,
+        "is_active": true,
+        "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWU4NDVmZDc1MmY4NTVjOWViOWQ3YzkiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc3NjgyOTk0OSwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzc2ODk1MjAwfQ.Wik_-125UVnSY-6SDDH_-3YlBc3EVlFW8aFNQtNwcd8",
+        "extended_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWM5MzYwMWFiZTEwNzY4YTMwMzlhYzYiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlzRXh0ZW5kZWQiOnRydWUsImlhdCI6MTc3NDc5NDI0MSwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxODA2MzU3NjAwfQ.6zXm_05B9xuBpaTzxVK_qG6PRDomfqd59-ElmxsuCDI"
+    }
+}
