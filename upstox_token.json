@@ -1,6 +1,6 @@
 {
-    "auth_code": "kw5DnQ",
-    "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWYyY2M5MGM0Zjc5ZDQxNzc1ZGNjMzciLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc3NzUxOTc2MCwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzc3NTg2NDAwfQ.GXuU-iiLW2WaBTkeYSeegW8z7DPbjk3LoBfXcsfusCs",
+    "auth_code": "boVNn3",
+    "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWY4MTU2ZWZjZDk0YzRhNjYyNDU4ZTQiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc3Nzg2NjA5NCwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzc3OTMyMDAwfQ.V69L0FIgrNzXPnz9hmUVdwlDdNR7PyDVSJsODPTrFiI",
     "full": {
         "email": "jayant.patrikar05@gmail.com",
         "exchanges": [
@@ -31,7 +31,7 @@
         "poa": false,
         "ddpi": false,
         "is_active": true,
-        "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWYyY2M5MGM0Zjc5ZDQxNzc1ZGNjMzciLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc3NzUxOTc2MCwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzc3NTg2NDAwfQ.GXuU-iiLW2WaBTkeYSeegW8z7DPbjk3LoBfXcsfusCs",
+        "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWY4MTU2ZWZjZDk0YzRhNjYyNDU4ZTQiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc3Nzg2NjA5NCwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzc3OTMyMDAwfQ.V69L0FIgrNzXPnz9hmUVdwlDdNR7PyDVSJsODPTrFiI",
         "extended_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiI0UkM2TEsiLCJqdGkiOiI2OWM5MzYwMWFiZTEwNzY4YTMwMzlhYzYiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlzRXh0ZW5kZWQiOnRydWUsImlhdCI6MTc3NDc5NDI0MSwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxODA2MzU3NjAwfQ.6zXm_05B9xuBpaTzxVK_qG6PRDomfqd59-ElmxsuCDI"
     }
 }
