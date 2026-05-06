@@ -3,7 +3,7 @@ from option_chain_core import render_option_chain_page
 TITLE = "NIFTY Live Option Chain"
 SYMBOL = "NIFTY"
 INSTRUMENT = "NSE_INDEX|Nifty 50"
-EXPIRY = "2026-05-05"
+EXPIRY = "2026-05-12"
 
 
 def render_app() -> None:
